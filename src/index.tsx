@@ -33,7 +33,7 @@ const App = () => {
 			<ArticleParamsForm
 				currentArticleState={currentArticleState}
 				setCurrentArticleState={setCurrentArticleState}
-				 />
+			/>
 			<Article />
 		</main>
 	);
